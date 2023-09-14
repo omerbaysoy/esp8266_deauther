@@ -8,7 +8,7 @@ My version of SpacehuhnTech's esp8266 Wifi Deauther device with added battery an
 
 
 ![example_built_i2c-636f3b2c9d2b43d37c841b3c8726e152](https://github.com/omerbaysoy/esp8266_deauther/assets/134011706/f3d70407-5d93-4010-9772-8102a8016604)
--Display	GPIO
+***Display	GPIO***
 
 -GND	GND
 
@@ -18,7 +18,7 @@ My version of SpacehuhnTech's esp8266 Wifi Deauther device with added battery an
 
 -SDA	GPIO 5 (D1)
 
--Button	GPIO
+***Button	GPIO***
 
 -UP	GPIO 14 (D5)
 
@@ -26,7 +26,7 @@ My version of SpacehuhnTech's esp8266 Wifi Deauther device with added battery an
 
 -A	GPIO 13 (D7)
 
--NEOPIXEL LED	GPIO
+***NEOPIXEL LED	GPIO***
 
 -GND	GND
 
